@@ -6,7 +6,7 @@
 
 ## Demo
 
-https://github.com/asem-sharif-ai/Undergraduate/Year-1/[PyGame] RGBA Palette Generator/Preview.mp4
+[https://github.com/asem-sharif-ai/Undergraduate/Year-1/[PyGame] RGBA Palette Generator/Preview.mp4](https://github.com/asem-sharif-ai/Undergraduate/blob/main/Year-1/%5BPyGame%5D%20RGBA%20Palette%20Generator/Preview.mp4)
 
 ---
 

@@ -177,7 +177,7 @@ pip install customtkinter pandas numpy matplotlib seaborn scikit-learn imbalance
 
 ## Run
 ```bash
-python Main.py
+python App.py
 ```
 
 ---

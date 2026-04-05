@@ -10,7 +10,7 @@
 |---|---|
 | ![](Demo/demo-1.gif) | ![](Demo/demo-4.gif) |
 
-| Supervised |
+| Supervised | Supervised |
 |---|---|
 | ![](Demo/demo-3.gif) | ![](Demo/demo-4.gif) |
 

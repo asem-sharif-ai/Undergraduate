@@ -1,0 +1,6 @@
+customtkinter
+matplotlib
+pillow
+numpy
+scipy
+scikit-image

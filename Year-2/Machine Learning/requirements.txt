@@ -1,0 +1,8 @@
+customtkinter
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+yellowbrick
+setuptools

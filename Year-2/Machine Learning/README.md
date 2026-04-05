@@ -6,11 +6,11 @@
 
 ## Demo
 
-| Preprocessing | Supervised |
+| Preprocessing | Unsupervised Clustering |
 |---|---|
-| ![](Demo/demo-1.gif) | ![](Demo/demo-2.gif) |
+| ![](Demo/demo-1.gif) | ![](Demo/demo-4.gif) |
 
-| Supervised | Unsupervised Clustering |
+| Supervised |
 |---|---|
 | ![](Demo/demo-3.gif) | ![](Demo/demo-4.gif) |
 

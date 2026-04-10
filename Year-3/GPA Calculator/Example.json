@@ -1,0 +1,51 @@
+{
+    "Subjects": [
+        {
+            "Subject": "Mathematics",
+            "Hours": 3,
+            "Grade": 88.0,
+            "Max Grade": 100
+        },
+        {
+            "Subject": "Data Structures",
+            "Hours": 3,
+            "Grade": 76.5,
+            "Max Grade": 100
+        },
+        {
+            "Subject": "Computer Vision",
+            "Hours": 3,
+            "Grade": 95.0,
+            "Max Grade": 100
+        },
+        {
+            "Subject": "Machine Learning",
+            "Hours": 3,
+            "Grade": 82.0,
+            "Max Grade": 100
+        },
+        {
+            "Subject": "Linear Algebra",
+            "Hours": 2,
+            "Grade": 55.0,
+            "Max Grade": 60
+        }
+    ],
+    "Terms": [
+        {
+            "Term": "Year 1 - Term 1",
+            "Hours": 18,
+            "GPA": 3.1
+        },
+        {
+            "Term": "Year 1 - Term 2",
+            "Hours": 18,
+            "GPA": 3.4
+        },
+        {
+            "Term": "Year 2 - Term 1",
+            "Hours": 16,
+            "GPA": 2.85
+        }
+    ]
+}

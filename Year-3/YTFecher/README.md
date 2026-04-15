@@ -51,7 +51,7 @@ A high-performance, modern desktop application designed for seamless YouTube con
   * `SRC/Style.py`: Custom QSS styling and UI component definitions.
   * `SRC/Tabs.py`: Logic for the multi-tab navigation system.
 
-## 🔧 Build
+## Build
 
 To create a standalone executable for Windows, use the following command:
 

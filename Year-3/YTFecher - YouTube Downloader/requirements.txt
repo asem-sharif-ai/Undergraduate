@@ -1,0 +1,6 @@
+PyQt6
+pytubefix
+youtube-transcript-api
+opencv-python
+googletrans
+matplotlib

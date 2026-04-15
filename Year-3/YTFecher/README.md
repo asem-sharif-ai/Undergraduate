@@ -27,7 +27,7 @@ A high-performance, modern desktop application designed for seamless YouTube con
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/asem-sharif-ai/YTFetcher.git
+    git clone ttps://github.com/asem-sharif-ai/Undergraduate/Year-3/YTFecher
     cd YTFetcher
     ```
 

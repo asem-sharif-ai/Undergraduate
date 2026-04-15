@@ -152,7 +152,7 @@ and enables complete playlist downloads with ease.'''[1:])
 
     links.addWidget(social_btn('Email', 'mailto:asem.sharif.ai@gmail.com', '#ff4D4D'))
     links.addWidget(social_btn('LinkedIn', 'https://linkedin.com/in/asem-sharif', '#0077B5'))
-    links.addWidget(social_btn('Github', 'https://github.com/asem-sharif', '#ffffff', r'QPushButton:hover {color: #000000;}'))
+    links.addWidget(social_btn('Github', 'https://github.com/asem-sharif-ai', '#ffffff', r'QPushButton:hover {color: #000000;}'))
 
     dev_layout.addWidget(lbl_by)
     dev_layout.addWidget(lbl_name)

@@ -49,7 +49,7 @@ This project provides a comprehensive "Studio" environment for hand sign recogni
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/asem-sharif-ai-Undergraduate/HandSign-Studio.git](https://github.com/asem-sharif-ai/Undergraduate/HandSign-Studio.git)
+   git clone [https://github.com/asem-sharif-ai-Undergraduate/Year-3/Hand%20Gestures%20Studio.git]
    cd handsign-dl-studio
    ```
 
